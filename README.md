@@ -1,16 +1,23 @@
 starter
 https://github.com/supabase/supabase/tree/master/examples/auth/nextjs
 
+// basscss docs
+https://basscss.com/
 
 auth doc
 https://supabase.com/docs/guides/getting-started/tutorials/with-nextjs
 video
 https://www.youtube.com/watch?v=9T6tjTQ4Zo4&list=PL5S4mPUpp4OtMhpnp93EFSo42iQ40XjbF
 
+tailwind cheatsheet
+https://nerdcave.com/tailwind-cheat-sheet
 
 tamagui
 https://tamagui.dev/docs/guides/next-js
 ex - https://github.com/kelvinpompey/tamagui-expo-nextjs-trpc-minimal/blob/main/packages/app/provider/index.tsx
+
+basscss
+https://basscss.com/
 
 ----------------------------
 <a href="https://demo-nextjs-with-supabase.vercel.app/">

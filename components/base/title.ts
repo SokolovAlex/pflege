@@ -1,7 +1,7 @@
-'use client';
+"use client";
 
-import styled from 'styled-components'
+import styled from "styled-components";
 
-export const Title = styled.div`
-    color: red
-`
+export const Title = styled.h1`
+    font-weight: bold;
+`;
